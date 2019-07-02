@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"github.com/ying32/govcl/vcl"
 	// "github.com/ying32/govcl/vcl/types"
-	"github.com/warrially/BaziGo"
+	"github.com/yale8848/BaziGo"
 )
 
 func (self *TForm1) OnFormCreate(sender vcl.IObject) {

@@ -2,9 +2,9 @@
 package DaYun
 
 import (
-	. "github.com/warrially/BaziGo/Common"
-	"github.com/warrially/BaziGo/Days"
-	"github.com/warrially/BaziGo/SiZhu"
+	. "github.com/yale8848/BaziGo/Common"
+	"github.com/yale8848/BaziGo/Days"
+	"github.com/yale8848/BaziGo/SiZhu"
 )
 
 // 2、大运起排的顺序是：

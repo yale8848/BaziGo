@@ -1,7 +1,7 @@
 package Days
 
 import (
-	. "github.com/warrially/BaziGo/Common"
+	. "github.com/yale8848/BaziGo/Common"
 )
 
 const (

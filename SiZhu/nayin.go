@@ -1,7 +1,7 @@
 package SiZhu
 
 import (
-	. "github.com/warrially/BaziGo/Common"
+	. "github.com/yale8848/BaziGo/Common"
 )
 
 // 计算十神

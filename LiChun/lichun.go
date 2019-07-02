@@ -1,7 +1,7 @@
 package LiChun
 
 import (
-	. "github.com/warrially/BaziGo/Common"
+	. "github.com/yale8848/BaziGo/Common"
 )
 
 var LI_CHUN_LIST = [...][6]int{

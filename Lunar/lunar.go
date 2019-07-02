@@ -1,7 +1,7 @@
 package Lunar
 
 import (
-	. "github.com/warrially/BaziGo/Common"
+	. "github.com/yale8848/BaziGo/Common"
 )
 
 // { * 自公元前 850 年开始的农历闰月信息 -849~2100，移植自中国日历类}

@@ -11,7 +11,7 @@ package SiZhu
 // 或四柱刑冲克害用神而能化凶神，制凶神者，就是喜神。 四柱没有用神，就得靠行运流年来补。
 // 对于命局五行较为平衡，用神不太紧缺的四柱，其一生较为平顺，无大起大落。
 import (
-	. "github.com/warrially/BaziGo/Common"
+	. "github.com/yale8848/BaziGo/Common"
 	"log"
 )
 
@@ -107,6 +107,8 @@ func CalcXiYong(pSiZhu *TSiZhu) TXiYong {
 	} else {
 		log.Printf("身弱 %d, %.2f%%\n", xiyong.Diff-xiyong.Same, float64(100*xiyong.Diff)/float64(xiyong.Diff+xiyong.Same))
 	}
+
+	xiyong.WuXing = wuxing
 	// 月支
 	xiyong.MonthZhi = nMonthZhi
 	// 日五行

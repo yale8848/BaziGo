@@ -1,8 +1,8 @@
 package SiZhu
 
 import (
-	. "github.com/warrially/BaziGo/Common"
-	"github.com/warrially/BaziGo/Days"
+	. "github.com/yale8848/BaziGo/Common"
+	"github.com/yale8848/BaziGo/Days"
 )
 
 // 补充五行

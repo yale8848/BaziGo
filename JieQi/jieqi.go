@@ -1,8 +1,8 @@
 package JieQi
 
 import (
-	. "github.com/warrially/BaziGo/Common"
-	_ "github.com/warrially/BaziGo/Days"
+	. "github.com/yale8848/BaziGo/Common"
+	_ "github.com/yale8848/BaziGo/Days"
 )
 
 type TJieQi struct {

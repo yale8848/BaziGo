@@ -3,7 +3,7 @@ package SiZhu
 // 合化冲
 
 import (
-	. "github.com/warrially/BaziGo/Common"
+	. "github.com/yale8848/BaziGo/Common"
 )
 
 //

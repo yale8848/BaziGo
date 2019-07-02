@@ -194,6 +194,7 @@ type TXiYong struct {
 	DayWuXing int // 日干五行
 	Same      int // 同类
 	Diff      int // 异类
+	WuXing    [5]int
 }
 
 // 大运

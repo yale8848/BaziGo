@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/warrially/BaziGo/Days"
-	"github.com/warrially/BaziGo/Lunar"
+	"github.com/yale8848/BaziGo/Days"
+	"github.com/yale8848/BaziGo/Lunar"
 	"log"
 )
 

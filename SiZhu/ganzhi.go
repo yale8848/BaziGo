@@ -3,7 +3,7 @@ package SiZhu
 // 干支
 
 import (
-	. "github.com/warrially/BaziGo/Common"
+	. "github.com/yale8848/BaziGo/Common"
 )
 
 // 获得八字年的干支，0-59 对应 甲子到癸亥

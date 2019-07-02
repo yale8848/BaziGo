@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/warrially/BaziGo"
+	"github.com/yale8848/BaziGo"
 	"log"
 )
 

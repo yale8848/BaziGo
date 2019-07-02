@@ -4,7 +4,7 @@
 package Days
 
 import (
-	. "github.com/warrially/BaziGo/Common"
+	. "github.com/yale8848/BaziGo/Common"
 )
 
 // 获取64位时间戳

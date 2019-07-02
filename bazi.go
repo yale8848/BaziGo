@@ -1,13 +1,13 @@
 package BaziGo
 
 import (
-	. "github.com/warrially/BaziGo/Common"
-	"github.com/warrially/BaziGo/DaYun"
-	"github.com/warrially/BaziGo/Days"
-	"github.com/warrially/BaziGo/JieQi"
-	"github.com/warrially/BaziGo/LiChun"
-	"github.com/warrially/BaziGo/Lunar"
-	"github.com/warrially/BaziGo/SiZhu"
+	. "github.com/yale8848/BaziGo/Common"
+	"github.com/yale8848/BaziGo/DaYun"
+	"github.com/yale8848/BaziGo/Days"
+	"github.com/yale8848/BaziGo/JieQi"
+	"github.com/yale8848/BaziGo/LiChun"
+	"github.com/yale8848/BaziGo/Lunar"
+	"github.com/yale8848/BaziGo/SiZhu"
 	"log"
 )
 
